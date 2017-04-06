@@ -26,7 +26,6 @@ BuildRequires:    python-d2to1
 
 Requires:         python-babel
 Requires:         python-iso8601
-Requires:         python-jinja2
 Requires:         python-jsonschema
 Requires:         python-keystoneauth1 >= 2.1.0
 Requires:         python-oslo-i18n >= 2.1.0
